@@ -1,11 +1,11 @@
 package pattern.strategy;
 
 /**
- * @className Client
- * @description
  * @author huchenfei
- * @date 2019/4/17 15:11
  * @version 1.0
+ * @className Client
+ * @description 策略模式
+ * @date 2019/4/17 15:11
  **/
 public class Client {
 

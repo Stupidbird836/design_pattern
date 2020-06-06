@@ -1,11 +1,11 @@
 package pattern.mediator;
 
 /**
+ * @author huchenfei
+ * @version 1.0
  * @className Client
  * @description
- * @author huchenfei
  * @date 2019/3/6 16:25
- * @version 1.0
  **/
 public class Client {
 

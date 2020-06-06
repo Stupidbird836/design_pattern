@@ -2,58 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ceb16d3-0a87-4d6f-9533-73da6acd8763" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modeldesign.iml" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TemplateMethodPattern/HummerH1Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/template/HummerH1Model.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TemplateMethodPattern/HummerH2Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/template/HummerH2Model.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TemplateMethodPattern/HummerModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/template/HummerModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TemplateMethodPattern/TemplateMethodPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/template/TemplateMethodPattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/adapterPattern/Chinese.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/adapter/Chinese.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/adapterPattern/ChineseImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/adapter/ChineseImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/adapterPattern/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/adapter/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/adapterPattern/English.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/adapter/English.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/adapterPattern/EnglishImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/adapter/EnglishImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/adapterPattern/Foreign.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/adapter/Foreign.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/adapterPattern/ForeignImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/adapter/ForeignImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/adapterPattern/TranslateAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/adapter/TranslateAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/builderPattern/BMWBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/builder/BMWBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/builderPattern/BMWModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/builder/BMWModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/builderPattern/BenzBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/builder/BenzBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/builderPattern/BenzModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/builder/BenzModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/builderPattern/BuilderPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/builder/BuilderPattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/builderPattern/CarBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/builder/CarBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/builderPattern/CarModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/builder/CarModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/builderPattern/Designer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/builder/Designer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/decoratePattern/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/decorate/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/decoratePattern/Decorate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/decorate/Decorate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/decoratePattern/FouthGradeSchoolReport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/decorate/FouthGradeSchoolReport.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/decoratePattern/HighScoreDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/decorate/HighScoreDecorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/decoratePattern/SchoolReport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/decorate/SchoolReport.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/decoratePattern/SortDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/decorate/SortDecorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mediatorPattern/AbstractColleague.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/mediator/AbstractColleague.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mediatorPattern/AbstractMediator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/mediator/AbstractMediator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mediatorPattern/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/mediator/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mediatorPattern/Mediator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/mediator/Mediator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mediatorPattern/NewClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/mediator/NewClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mediatorPattern/NewPurchase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/mediator/NewPurchase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mediatorPattern/NewSale.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/mediator/NewSale.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mediatorPattern/NewStock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/mediator/NewStock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mediatorPattern/Purchase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/mediator/Purchase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mediatorPattern/Sale.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/mediator/Sale.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mediatorPattern/Stock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/mediator/Stock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prototypePattern/Man.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/prototype/Man.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prototypePattern/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/prototype/Phone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prototypePattern/Prototype.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/prototype/Prototype.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/proxyPattern/InvestMoney.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/proxy/InvestMoney.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/proxyPattern/InvestMoneyInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/proxy/InvestMoneyInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/proxyPattern/LiErGouProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/proxy/LiErGouProxy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/proxyPattern/ProxyPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/proxy/ProxyPattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/strategyPattern/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/strategy/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/strategyPattern/Context.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/strategy/Context.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/strategyPattern/Strategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/strategy/Strategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/strategyPattern/StrategyOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/strategy/StrategyOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/strategyPattern/StrategyThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/strategy/StrategyThree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/strategyPattern/StrategyTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/strategy/StrategyTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pattern/decorate/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/decorate/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pattern/decorate/Decorate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/decorate/AbstractDecorate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pattern/decorate/FouthGradeSchoolReport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/decorate/FouthGradeSchoolReport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pattern/decorate/HighScoreDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/decorate/HighScoreDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pattern/decorate/SchoolReport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/decorate/AbstractSchoolReport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pattern/decorate/SortDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/decorate/SortDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pattern/mediator/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/mediator/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pattern/strategy/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/strategy/Client.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -77,13 +35,14 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555500293122" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -97,7 +56,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Client (1)">
+  <component name="RunManager">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pattern.adapter.Client" />
       <module name="design_pattern" />
@@ -126,7 +85,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Client (1)" />
         <item itemvalue="Application.Client" />
       </list>
     </recent_temporary>
@@ -142,7 +100,7 @@
       <option name="presentableId" value="Default" />
       <updated>1555482788923</updated>
       <workItem from="1555482790923" duration="8888000" />
-      <workItem from="1591446947414" duration="538000" />
+      <workItem from="1591446947414" duration="3777000" />
     </task>
     <servers />
   </component>

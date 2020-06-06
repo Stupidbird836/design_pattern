@@ -1,20 +1,22 @@
 package pattern.decorate;
 
 /**
+ * @author huchenfei
+ * @version 1.0
  * @className HighScoreDecorator
  * @description
- * @author huchenfei
  * @date 2019/3/7 18:34
- * @version 1.0
  **/
-public class HighScoreDecorator extends Decorate {
+public class HighScoreDecorator extends AbstractDecorate {
 
 
-    public HighScoreDecorator(SchoolReport schoolReport) {
+    public HighScoreDecorator(AbstractSchoolReport schoolReport) {
         super(schoolReport);
     }
 
-    //我要汇报最高成绩
+    /**
+     * 我要汇报最高成绩
+     */
     public void reportHighScore() {
         System.out.println("这次考试语文最高是75，数学是78，自然是80");
     }
@@ -22,6 +24,6 @@ public class HighScoreDecorator extends Decorate {
     @Override
     public void report() {
         this.reportHighScore();
-        schoolReport.report();
+        abstractSchoolReport.report();
     }
 }

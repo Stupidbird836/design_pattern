@@ -7,9 +7,9 @@ package pattern.decorate;
  * @date 2019/3/7 18:35
  * @version 1.0
  **/
-public class SortDecorator extends Decorate {
+public class SortDecorator extends AbstractDecorate {
 
-    public SortDecorator(SchoolReport schoolReport) {
+    public SortDecorator(AbstractSchoolReport schoolReport) {
         super(schoolReport);
     }
 
