@@ -1,11 +1,11 @@
 package pattern.decorate;
 
 /**
+ * @author huchenfei
+ * @version 1.0
  * @className SchoolReport
  * @description
- * @author huchenfei
  * @date 2019/3/7 18:09
- * @version 1.0
  **/
 public abstract class AbstractSchoolReport {
 

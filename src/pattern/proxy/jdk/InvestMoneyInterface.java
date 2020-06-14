@@ -1,4 +1,4 @@
-package pattern.proxy;
+package pattern.proxy.jdk;
 
 public interface InvestMoneyInterface {
 

@@ -11,8 +11,8 @@ public abstract class AbstractDecorate extends AbstractSchoolReport {
 
     protected AbstractSchoolReport abstractSchoolReport;
 
-    public AbstractDecorate(AbstractSchoolReport schoolReport) {
-        this.abstractSchoolReport = schoolReport;
+    AbstractDecorate(AbstractSchoolReport abstractSchoolReport) {
+        this.abstractSchoolReport = abstractSchoolReport;
     }
 
     @Override

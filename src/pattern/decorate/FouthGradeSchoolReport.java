@@ -1,11 +1,11 @@
 package pattern.decorate;
 
 /**
+ * @author huchenfei
+ * @version 1.0
  * @className FouthGradeSchoolReport
  * @description
- * @author huchenfei
  * @date 2019/3/7 18:37
- * @version 1.0
  **/
 public class FouthGradeSchoolReport extends AbstractSchoolReport {
 

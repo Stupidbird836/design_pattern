@@ -1,11 +1,11 @@
 package pattern.decorate;
 
 /**
+ * @author huchenfei
+ * @version 1.0
  * @className SortDecorator
  * @description
- * @author huchenfei
  * @date 2019/3/7 18:35
- * @version 1.0
  **/
 public class SortDecorator extends AbstractDecorate {
 

@@ -10,8 +10,8 @@ package pattern.decorate;
 public class HighScoreDecorator extends AbstractDecorate {
 
 
-    public HighScoreDecorator(AbstractSchoolReport schoolReport) {
-        super(schoolReport);
+    public HighScoreDecorator(AbstractSchoolReport abstractSchoolReport) {
+        super(abstractSchoolReport);
     }
 
     /**

@@ -2,16 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ceb16d3-0a87-4d6f-9533-73da6acd8763" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/asm_8_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/cglib_3_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/proxy/cglib/CglibProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/proxy/cglib/CglibProxyPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/proxy/cglib/InvestMoney.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/proxy/jdk/LiErGouProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pattern/decorate/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/decorate/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pattern/decorate/Decorate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/decorate/AbstractDecorate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern.iml" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pattern/decorate/AbstractDecorate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/decorate/AbstractDecorate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pattern/decorate/AbstractSchoolReport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/decorate/AbstractSchoolReport.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pattern/decorate/FouthGradeSchoolReport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/decorate/FouthGradeSchoolReport.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pattern/decorate/HighScoreDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/decorate/HighScoreDecorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pattern/decorate/SchoolReport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/decorate/AbstractSchoolReport.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pattern/decorate/SortDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/decorate/SortDecorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pattern/mediator/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/mediator/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pattern/strategy/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/strategy/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pattern/proxy/InvestMoney.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/proxy/jdk/InvestMoney.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pattern/proxy/InvestMoneyInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/proxy/jdk/InvestMoneyInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pattern/proxy/LiErGouProxy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pattern/proxy/ProxyPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/proxy/jdk/ProxyPattern.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,10 +48,18 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555500293122" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/Download/asm-8.0.1.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pattern.proxy.cglib" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -56,7 +73,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.CglibProxyPattern">
+    <configuration name="CglibProxyPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pattern.proxy.cglib.CglibProxyPattern" />
+      <module name="design_pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pattern.proxy.cglib.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pattern.adapter.Client" />
       <module name="design_pattern" />
@@ -83,8 +113,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ProxyPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pattern.proxy.jdk.ProxyPattern" />
+      <module name="design_pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pattern.proxy.jdk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CglibProxyPattern" />
+        <item itemvalue="Application.ProxyPattern" />
         <item itemvalue="Application.Client" />
       </list>
     </recent_temporary>
@@ -101,6 +146,9 @@
       <updated>1555482788923</updated>
       <workItem from="1555482790923" duration="8888000" />
       <workItem from="1591446947414" duration="3777000" />
+      <workItem from="1591450866646" duration="6972000" />
+      <workItem from="1592098806527" duration="545000" />
+      <workItem from="1592104104143" duration="3672000" />
     </task>
     <servers />
   </component>
@@ -112,10 +160,23 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pattern/proxy/jdk/ProxyPattern.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

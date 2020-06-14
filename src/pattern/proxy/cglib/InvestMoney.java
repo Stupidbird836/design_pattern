@@ -1,10 +1,21 @@
-package pattern.proxy;
+package pattern.proxy.cglib;
 
-public class InvestMoney implements InvestMoneyInterface {
 
-    private String name = "";
+public class InvestMoney{
+
+    public String name = "";
+
     public InvestMoney(String name) {
         this.name = name;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public InvestMoney setName(String name) {
+        this.name = name;
+        return this;
     }
 
     public void invest() {
