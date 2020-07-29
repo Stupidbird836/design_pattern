@@ -1,8 +1,21 @@
 package pattern.proxy.jdk;
 
+/**
+ * @author huchenfei
+ * @version 1.0
+ * @className InvestMoneyInterface
+ * @description 投资接口
+ * @date 2020/7/29 17:38
+ **/
 public interface InvestMoneyInterface {
 
-    public void invest();
+    /**
+     * 投资
+     */
+    void invest();
 
-    public void income();
+    /**
+     * 收入
+     */
+    void income();
 }
