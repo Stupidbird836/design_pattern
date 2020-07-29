@@ -14,7 +14,7 @@ public class ProxyJdkClient {
         InvestMoneyProxy investMoneyProxy = new InvestMoneyProxy(oneInvestMoney);
         investMoneyProxy.invest();
         investMoneyProxy.income();
-        
+
         TwoInvestMoney twoInvestMoney = new TwoInvestMoney();
         InvestMoneyProxy investMoneyProxyTwo = new InvestMoneyProxy(twoInvestMoney);
         investMoneyProxyTwo.invest();
