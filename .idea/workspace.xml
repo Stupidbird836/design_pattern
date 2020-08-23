@@ -2,27 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ceb16d3-0a87-4d6f-9533-73da6acd8763" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/asm_8_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/cglib_3_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/proxy/cglib/CglibProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/proxy/cglib/CglibProxyPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/proxy/cglib/InvestMoney.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/proxy/jdk/LiErGouProxy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/proxy/cglib/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern.iml" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pattern/decorate/AbstractDecorate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/decorate/AbstractDecorate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pattern/decorate/AbstractSchoolReport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/decorate/AbstractSchoolReport.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pattern/decorate/FouthGradeSchoolReport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/decorate/FouthGradeSchoolReport.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pattern/decorate/HighScoreDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/decorate/HighScoreDecorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pattern/decorate/SortDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/decorate/SortDecorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pattern/proxy/InvestMoney.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/proxy/jdk/InvestMoney.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pattern/proxy/InvestMoneyInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/proxy/jdk/InvestMoneyInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pattern/proxy/LiErGouProxy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pattern/proxy/ProxyPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/proxy/jdk/ProxyPattern.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,35 +25,28 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555500293122" />
-    <property name="last_opened_file_path" value="D:/Download/asm-8.0.1.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="pattern.proxy.cglib" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Application.CglibProxyPattern">
     <configuration name="CglibProxyPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -134,6 +109,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -148,25 +124,42 @@
       <workItem from="1591446947414" duration="3777000" />
       <workItem from="1591450866646" duration="6972000" />
       <workItem from="1592098806527" duration="545000" />
-      <workItem from="1592104104143" duration="3672000" />
+      <workItem from="1592104104143" duration="4876000" />
+      <workItem from="1593073983353" duration="760000" />
+      <workItem from="1593171520688" duration="2659000" />
+      <workItem from="1593243903567" duration="3378000" />
+      <workItem from="1593331720280" duration="5725000" />
+      <workItem from="1598181082409" duration="101000" />
     </task>
     <servers />
   </component>
+  <component name="TerminalProjectNonSharedOptionsProvider">
+    <option name="shellPath" value="D:\Git\bin\bash.exe" />
+  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="786" y="280" key="FileChooserDialogImpl" timestamp="1598181178982">
+      <screen x="93" y="0" width="1827" height="1080" />
+    </state>
+    <state x="786" y="280" key="FileChooserDialogImpl/93.-1080.1827.1080/93.0.1827.1080@93.0.1827.1080" timestamp="1598181178982" />
+    <state x="507" y="184" key="SettingsEditor" timestamp="1598181184904">
+      <screen x="93" y="0" width="1827" height="1080" />
+    </state>
+    <state x="507" y="184" key="SettingsEditor/93.-1080.1827.1080/93.0.1827.1080@93.0.1827.1080" timestamp="1598181184904" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
